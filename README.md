@@ -59,7 +59,8 @@ If you have a project that aligns with my interests and where I can contribute m
  - [LinkedIn](https://www.linkedin.com/in/antoniomarsari/)
  - [My CV in pdf](https://drive.google.com/file/d/1ETtTulUe7LiNmUozGaGWuL2QreDKinJJ/view?usp=drive_link)
 
-
-
 ## 💼 My Proven Experience & Certifications
-- 
+- In Progress. Come back soon!
+
+## 📈 Best Practices
+- In Progress. Come back soon!
