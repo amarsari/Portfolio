@@ -60,7 +60,10 @@ If you have a project that aligns with my interests and where I can contribute m
  - [My CV in pdf](https://drive.google.com/file/d/1ETtTulUe7LiNmUozGaGWuL2QreDKinJJ/view?usp=drive_link)
 
 ## 💼 My Proven Experience & Certifications
-- In Progress. Come back soon!
+- Quality Assurance Certification issued by freeCodeCamp.org
+- Javascript Algorithms and Data Structures Certification issued by freeCodeCamp.org
+- ITIL Foundations issued by IBM
+- TESOL Certificate issued by ASU
 
 ## 📈 Best Practices
 - In Progress. Come back soon!
