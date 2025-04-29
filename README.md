@@ -57,7 +57,8 @@ If you have a project that aligns with my interests and where I can contribute m
 ## 📫 How to reach me...
 
  - [LinkedIn](https://www.linkedin.com/in/antoniomarsari/)
- - [My CV in pdf](https://drive.google.com/file/d/1ETtTulUe7LiNmUozGaGWuL2QreDKinJJ/view?usp=drive_link)
+ - [My CV in English in pdf](https://drive.google.com/file/d/1rEMGpDNe14nXyKgd1r_7Z9qUcrvvlAdF/view?usp=drive_link)
+ - [My CV in Portuguese in pdf](https://drive.google.com/file/d/1lfzUHJllWmMl5Vi2WXOenB-_RXvvFL72/view?usp=drive_link)
 
 ## 💼 My Proven Experience & Certifications
 - Quality Assurance Certification issued by freeCodeCamp.org
