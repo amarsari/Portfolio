@@ -20,6 +20,7 @@ With a solid foundation in Information Technology, complemented by experience in
 ## Work, Work, Work
 ### 🧠 I'm currently learning...
 - [# ISTQB Foundations Mastering @ Udemy](https://www.udemy.com/open-badges/2037302713)
+- [Supporting Study Material of my own creation](https://drive.google.com/drive/folders/1vwJUMXl2kiDSXvHHpGeUxVwABIboiXU6?usp=drive_link)
 
 ### 👩‍💻 I'm currently working on...
 - Ensuring high quality and effectiveness of English lessons through rigorous review and feedback processes.
@@ -65,6 +66,13 @@ If you have a project that aligns with my interests and where I can contribute m
 - Javascript Algorithms and Data Structures Certification issued by freeCodeCamp.org
 - ITIL Foundations issued by IBM
 - TESOL Certificate issued by ASU
+- 
+### Automation Tests Projects 300+ hours of work!
+- [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
+- [QA American British English Translator Unit and Functional Automation Tests](https://github.com/amarsari/qa-american-british-english-translator/tree/main/tests)]
+- [QA Issues Tracker Functional Automation Tests](https://github.com/amarsari/qa-issue-tracker/tree/main/tests)
+- [QA Personal Library Functional Automation Tests](https://github.com/amarsari/qa-personal-library/tree/main/tests)]
+- [QA Sudoku Solver Unit and Functional Automation Tests](https://github.com/amarsari/qa-sudoku-solver/tree/main/tests)
 
 ## 📈 Best Practices
 - In Progress. Come back soon!
