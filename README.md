@@ -21,6 +21,7 @@ With a solid foundation in Information Technology, complemented by experience in
 ### 🧠 I'm currently learning...
 - [# ISTQB Foundations Mastering @ Udemy](https://www.udemy.com/open-badges/2037302713)
 - [Supporting Study Material of my own creation](https://drive.google.com/drive/folders/1vwJUMXl2kiDSXvHHpGeUxVwABIboiXU6?usp=drive_link)
+- [Cypress Theory & Practice](https://learn.cypress.io/)
 
 ### 👩‍💻 I'm currently working on...
 - Ensuring high quality and effectiveness of English lessons through rigorous review and feedback processes.
