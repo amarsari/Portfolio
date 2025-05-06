@@ -66,8 +66,11 @@ If you have a project that aligns with my interests and where I can contribute m
 - Javascript Algorithms and Data Structures Certification issued by freeCodeCamp.org
 - ITIL Foundations issued by IBM
 - TESOL Certificate issued by ASU
-- 
-### Automation Tests Projects 300+ hours of work!
+
+- ### Automation Tests Projects using E2E Cypress
+- Coming soon!
+  
+- ### Automation Tests Projects using chai (300+ hours of work)!
 - [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
 - [QA American British English Translator Unit and Functional Automation Tests](https://github.com/amarsari/qa-american-british-english-translator/tree/main/tests)]
 - [QA Issues Tracker Functional Automation Tests](https://github.com/amarsari/qa-issue-tracker/tree/main/tests)
