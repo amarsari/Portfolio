@@ -68,7 +68,7 @@ If you have a project that aligns with my interests and where I can contribute m
 - TESOL Certificate issued by ASU
 
 - ### Automation Tests Projects using E2E Cypress
-- Coming soon!
+- [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) Please refer to folder cypress/e2e for the available specs and tests
   
 - ### Automation Tests Projects using chai (300+ hours of work)!
 - [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
