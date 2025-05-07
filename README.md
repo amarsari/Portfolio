@@ -24,6 +24,7 @@ With a solid foundation in Information Technology, complemented by experience in
 - [Cypress Theory & Practice](https://learn.cypress.io/)
 
 ### 👩‍💻 I'm currently working on...
+- [Automation Tests Projects using Cypress](#cypress)
 - Ensuring high quality and effectiveness of English lessons through rigorous review and feedback processes.
 - Developed and standardized English lesson plans and materials, incorporating best practices in language acquisition and pedagogical design.
 - Conducted thorough reviews of existing learning materials to identify areas for improvement in clarity, accuracy, and engagement.
@@ -68,6 +69,7 @@ If you have a project that aligns with my interests and where I can contribute m
 - ITIL Foundations issued by IBM
 - TESOL Certificate issued by ASU
 
+<a name="cypress"></a>
 - ### Automation Tests Projects using E2E Cypress
 - [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) Please refer to folder cypress/e2e for the available specs and tests
 - [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
