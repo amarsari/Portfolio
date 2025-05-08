@@ -75,6 +75,8 @@ If you have a project that aligns with my interests and where I can contribute m
 - [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
 - [Mastered Common Cypress Methods with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
 - [Mastered Debuging Failing Tests with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
+- [Mastered Use _.each() from lodash to iterate over the posts inside of response.body with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
+- [Matered Network Intercept with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
   
 - ### Automation Tests Projects using mocha chai (300+ hours of work)!
 - [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
