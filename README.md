@@ -74,6 +74,7 @@ If you have a project that aligns with my interests and where I can contribute m
 - [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) Please refer to folder cypress/e2e for the available specs and tests
 - [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
 - [Mastered Common Cypress Methods with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
+- [Mastered Debuging Failing Tests with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
   
 - ### Automation Tests Projects using mocha chai (300+ hours of work)!
 - [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
