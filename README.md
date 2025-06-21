@@ -22,6 +22,7 @@ With a solid foundation in Information Technology, complemented by experience in
 - [# ISTQB Foundations Mastering @ Udemy](https://www.udemy.com/open-badges/2037302713)
 - [Supporting Study Material of my own creation](https://drive.google.com/drive/folders/1vwJUMXl2kiDSXvHHpGeUxVwABIboiXU6?usp=drive_link)
 - [Cypress Theory & Practice](https://learn.cypress.io/)
+- PixiJS
 
 ### 👩‍💻 I'm currently working on...
 - [Automation Tests Projects using Cypress](#cypress)
