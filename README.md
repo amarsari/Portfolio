@@ -87,4 +87,4 @@ If you have a project that aligns with my interests and where I can contribute m
 - [QA Sudoku Solver Unit and Functional Automation Tests](https://github.com/amarsari/qa-sudoku-solver/tree/main/tests)
 
 ## 📈 Best Practices
-- In Progress. Come back soon!
+- [Bug Reports Best Practices](https://docs.google.com/document/d/1R_R0JwzJw8Mobv3deoyMhFshepgNwgUO9y0ZKaoVvkI/edit?tab=t.0)
