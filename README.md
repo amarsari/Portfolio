@@ -11,12 +11,15 @@ Full Stack JavaScript Developer with over 15 years of background in IT Service M
 - Javascript Fullstack Development
 - Quality Assurance: Test Planning & Execution, Bug Tracking & Reporting (JIRA), Test Methodologies 
 - Methodologies: Agile (Scrum, Kanban), ISTQB Foundation Principles, ITIL, Change Management, Problem Management
-- Technical Skills: JavaScript, GIT, SQL (MySQL), Basic understanding of Java, PHP, HTML, CSS 
+- Technical Skills: JavaScript, GIT, SQL (MySQL), PHP, HTML, CSS 
 - Tools: JIRA, MS Office Suite (including Visio & Project) 
 - Analytical Skills: Data Analysis, Process Improvement 
-- Language Proficiency: English (Native/Fluent), Portuguese (Native/Fluent) 
+- Language Proficiency: English (Native/Fluent), Portuguese (Native/Fluent)
+
+
 ## Work, Work, Work
 ### 🧠 I'm currently learning...
+- [The Math Behind Artificial Intelligence Book](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/)
 - [# ISTQB Foundations Mastering @ Udemy](https://www.udemy.com/open-badges/2037302713)
 - [Supporting Study Material of my own creation](https://drive.google.com/drive/folders/1vwJUMXl2kiDSXvHHpGeUxVwABIboiXU6?usp=drive_link)
 - [Cypress Theory & Practice](https://learn.cypress.io/)
