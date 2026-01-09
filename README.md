@@ -1,16 +1,14 @@
 
 # Portfolio
 
-
-
-
 ## 🚀 About Me
 Hey there!
 
-With a solid foundation in Information Technology, complemented by experience in data analysis and project management, I am currently expanding my expertise into the field of Quality Assurance. My understanding of QA methodologies is underpinned by relevant certifications, including the ISTQB Foundation Level, and practical familiarity with tools such as JIRA. I possess a proven capacity for rapid learning, effective collaboration, and the application of analytical skills to achieve high-quality results. I am keen to apply my technical aptitude and developing knowledge of Quality Assurance in a challenging and impactful role within the field.
+Full Stack JavaScript Developer with over 15 years of background in IT Service Management and Data Processing. Experienced in architecting scalable Single Page Applications (SPAs) using Vanilla JavaScript and Serverless architectures. Recently developed and deployed a comprehensive E-Learning SaaS platform (teachertony.top) featuring role-based authentication, real-time databases, and payment integration. Combines strong analytical skills from a background in ITIL and Six Sigma with practical engineering capabilities to deliver robust, user-centric software solutions.
 
 
 ## 🛠 Skills, Knowledge, Methodologies
+- Javascript Fullstack Development
 - Quality Assurance: Test Planning & Execution, Bug Tracking & Reporting (JIRA), Test Methodologies 
 - Methodologies: Agile (Scrum, Kanban), ISTQB Foundation Principles, ITIL, Change Management, Problem Management
 - Technical Skills: JavaScript, GIT, SQL (MySQL), Basic understanding of Java, PHP, HTML, CSS 
@@ -25,6 +23,7 @@ With a solid foundation in Information Technology, complemented by experience in
 - PixiJS
 
 ### 👩‍💻 I'm currently working on...
+- Developing my own Saas Educational System @ [Teacher Tony Top](https://teachertony.top/)
 - [Automation Tests Projects using Cypress](#cypress)
 - Ensuring high quality and effectiveness of English lessons through rigorous review and feedback processes.
 - Developed and standardized English lesson plans and materials, incorporating best practices in language acquisition and pedagogical design.
@@ -34,7 +33,7 @@ With a solid foundation in Information Technology, complemented by experience in
 - Managing the development and maintenance of educational website, ensuring their functionality and reliability. 
 
 ### 👯‍♀️ I'm looking to collaborate on...
-As I'm actively developing my expertise in Quality Assurance, I'm particularly keen to collaborate on projects that offer opportunities to apply and expand my QA skills. I'm enthusiastic about contributing to initiatives focused on ensuring software quality and delivering excellent user experiences.
+As I'm actively developing my expertise in Javascript development and also in Quality Assurance, I'm particularly keen to collaborate on projects that offer opportunities to apply and expand my QA skills. I'm enthusiastic about contributing to initiatives focused on ensuring software quality and delivering excellent user experiences.
 
 Specifically, I'm interested in collaborating on projects involving:
 
@@ -61,11 +60,11 @@ If you have a project that aligns with my interests and where I can contribute m
 ## 📫 How to reach me...
 
  - [LinkedIn](https://www.linkedin.com/in/antoniomarsari/)
- - [My CV in English in pdf](https://drive.google.com/file/d/1rEMGpDNe14nXyKgd1r_7Z9qUcrvvlAdF/view?usp=drive_link)
+ - [My CV in English in pdf](https://drive.google.com/file/d/1hw0MoIQqp0MnSBE646aEGKTKaHJKHduS/view?usp=drive_link)
 
 ## 💼 My Proven Experience & Certifications
-- Quality Assurance Certification issued by freeCodeCamp.org
 - Javascript Algorithms and Data Structures Certification issued by freeCodeCamp.org
+- Quality Assurance Certification issued by freeCodeCamp.org
 - ITIL Foundations issued by IBM
 - TESOL Certificate issued by ASU
 
