@@ -72,7 +72,11 @@ If you have a project that aligns with my interests and where I can contribute m
 - TESOL Certificate issued by ASU
 
 <a name="cypress"></a>
-- ### Automation Tests Projects using E2E Cypress
+### Automation Tests Projects using E2E Cypress
+  - [SauceDemo E2E Test Suite (Cypress)](https://github.com/amarsari/Portfolio) 
+  - Comprehensive automated functional, security, and edge-case validation for the SauceDemo reference application.
+  - Implemented resilient DOM selection using `data-test` attributes, structured `beforeEach` fixture setups, and deterministic assertions for authentication and input validation.
+
 - [Cypress Real World App Extensive Testing](https://github.com/amarsari/cypress-realworld-app.git)
 - [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) Please refer to folder cypress/e2e for the available specs and tests
 - [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
