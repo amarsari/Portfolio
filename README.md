@@ -71,19 +71,18 @@ If you have a project that aligns with my interests and where I can contribute m
 - ITIL Foundations issued by IBM
 - TESOL Certificate issued by ASU
 
-<a name="cypress"></a>
 ### Automation Tests Projects using E2E Cypress
-  - [SauceDemo E2E Test Suite (Cypress)](https://github.com/amarsari/Portfolio) 
-  - Comprehensive automated functional, security, and edge-case validation for the SauceDemo reference application.
-  - Implemented resilient DOM selection using `data-test` attributes, structured `beforeEach` fixture setups, and deterministic assertions for authentication and input validation.
 
-- [Cypress Real World App Extensive Testing](https://github.com/amarsari/cypress-realworld-app.git)
-- [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) Please refer to folder cypress/e2e for the available specs and tests
-- [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
-- [Mastered Common Cypress Methods with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
-- [Mastered Debuging Failing Tests with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
-- [Mastered Use _.each() from lodash to iterate over the posts inside of response.body with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
-- [Mastered Network Intercept with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog.git)
+- [SauceDemo E2E Test Suite (Cypress)](https://github.com/amarsari/saucedemo-cypress-e2e)
+  - Automated functional, security, and edge-case validation for the SauceDemo benchmark web app.
+  - Features resilient selector strategy via `data-test` attributes, `beforeEach` fixture setups, and deterministic assertions for authentication and form validation.
+- [Cypress Real World App Extensive Testing](https://github.com/amarsari/cypress-realworld-app)
+- [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) — *Refer to folder `cypress/e2e` for available specs and tests.*
+- [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
+- [Mastered Common Cypress Methods with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
+- [Mastered Debugging Failing Tests with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
+- [Mastered Data Iteration with lodash `_.each()` in Cypress](https://github.com/cypress-io/cypress-realworld-testing-blog)
+- [Mastered Network Intercept with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
   
 - ### Automation Tests Projects using mocha chai (300+ hours of work)!
 - [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
