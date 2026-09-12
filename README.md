@@ -1,100 +1,65 @@
+# Antonio Marsari | QA Automation Engineer
 
-# Portfolio
+[![GitHub](https://img.shields.io/badge/GitHub-amarsari-181717?logo=github)](https://github.com/amarsari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Marsari-0A66C2?logo=linkedin)](https://www.linkedin.com/in/antoniomarsari/)
+[![Email](https://img.shields.io/badge/Contact-antonio.marsari%40gmail.com-D14836?logo=gmail)](mailto:antonio.marsari@gmail.com)
 
-## 🚀 About Me
-Hey there!
+Quality Assurance professional and Web Developer with over 15 years of technical problem-solving experience across IT Service Management (ITIL), process optimization, and software development. Specializing in JavaScript-based test automation, Page Object Model (POM) architectures, dynamic DOM verification, and automated CI/CD deployment pipelines.
 
-Full Stack JavaScript Developer with over 15 years of background in IT Service Management and Data Processing. Experienced in architecting scalable Single Page Applications (SPAs) using Vanilla JavaScript and Serverless architectures. Recently developed and deployed a comprehensive E-Learning SaaS platform (teachertony.top) featuring role-based authentication, real-time databases, and payment integration. Combines strong analytical skills from a background in ITIL and Six Sigma with practical engineering capabilities to deliver robust, user-centric software solutions.
+---
 
+## 🛠 Core Competencies & Tech Stack
 
-## 🛠 Skills, Knowledge, Methodologies
-- Javascript Fullstack Development
-- Quality Assurance: Test Planning & Execution, Bug Tracking & Reporting (JIRA), Test Methodologies 
-- Methodologies: Agile (Scrum, Kanban), ISTQB Foundation Principles, ITIL, Change Management, Problem Management
-- Technical Skills: JavaScript, GIT, SQL (MySQL), PHP, HTML, CSS 
-- Tools: JIRA, MS Office Suite (including Visio & Project) 
-- Analytical Skills: Data Analysis, Process Improvement 
-- Language Proficiency: English (Native/Fluent), Portuguese (Native/Fluent)
+* **Test Automation & QA:** Cypress, Mocha, Chai, End-to-End (E2E) Testing, Functional & Unit Testing, Test Planning & Execution, Bug Tracking & Triage (Jira), ISTQB Foundation Principles.
+* **Languages & Web Technologies:** JavaScript (ES6+), Node.js, Express.js, HTML5, CSS3, REST APIs, Git, GitHub Actions.
+* **Databases & Systems:** MySQL, Linux (Debian/Mint), Bash, Apache.
+* **Process & Frameworks:** Agile (Scrum / Kanban), ITIL Foundations, Root Cause Analysis, CI/CD Pipelines.
+* **Languages:** English (Bilingual / C2 Proficiency), Portuguese (Native).
+
+---
+
+## 🧪 Featured QA Automation Projects
 
 ### [SauceDemo E2E Test Automation Framework](https://github.com/amarsari/saucedemo-cypress-e2e)
 ![Cypress E2E Tests](https://github.com/amarsari/saucedemo-cypress-e2e/actions/workflows/cypress.yml/badge.svg)
 
-* **Stack:** Cypress 14, JavaScript, GitHub Actions CI/CD, Page Object Model (POM).
-* **Highlights:** Decoupled architecture across 4 core user journeys, algorithmic DOM-based catalog sorting verification, automated headless execution on push/PR with artifact capture.
+An enterprise-grade test automation suite built with Cypress and JavaScript verifying critical e-commerce workflows.
+* **Architecture:** Decoupled Page Object Model (POM) separating UI selectors from test assertions across Auth, Cart, Checkout, and Catalog suites.
+* **Dynamic Assertions:** Algorithmic runtime array parsing for catalog sorting permutations (A-Z, Z-A, price ascending/descending) without brittle static expectations.
+* **CI/CD Pipeline:** Automated headless Chrome execution via GitHub Actions on every push and pull request with automatic failure artifact capture.
 
-## Work, Work, Work
-### 🧠 I'm currently learning...
-- [The Math Behind Artificial Intelligence Book](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/)
-- [# ISTQB Foundations Mastering @ Udemy](https://www.udemy.com/open-badges/2037302713)
-- [Supporting Study Material of my own creation](https://drive.google.com/drive/folders/1vwJUMXl2kiDSXvHHpGeUxVwABIboiXU6?usp=drive_link)
-- [Cypress Theory & Practice](https://learn.cypress.io/)
-- PixiJS
+---
 
-### 👩‍💻 I'm currently working on...
-- Developing my own Saas Educational System @ [Teacher Tony Top](https://teachertony.top/)
-- [Automation Tests Projects using Cypress](#cypress)
-- Ensuring high quality and effectiveness of English lessons through rigorous review and feedback processes.
-- Developed and standardized English lesson plans and materials, incorporating best practices in language acquisition and pedagogical design.
-- Conducted thorough reviews of existing learning materials to identify areas for improvement in clarity, accuracy, and engagement.
-- Designed and implemented engaging educational games and intuitive lesson formats to optimize client learning outcomes and satisfaction.
-- Continuously evaluated the effectiveness of lesson materials and delivery methods, incorporating client feedback and data analysis to drive ongoing improvements.
-- Managing the development and maintenance of educational website, ensuring their functionality and reliability. 
+### [freeCodeCamp QA Automation & Microservices Suite](https://github.com/amarsari)
+A collection of full-stack Node/Express microservices built with comprehensive automated unit and integration suites using **Mocha** and **Chai**:
+* **[Metric-Imperial Converter](https://github.com/amarsari/qa-metric-imperial-converter):** Unit conversion math validation and HTTP routing boundary assertions.
+* **[Issue Tracker](https://github.com/amarsari/qa-issue-tracker):** Multi-project defect lifecycle validation with CRUD, sorting, and field filter tests.
+* **[Personal Library](https://github.com/amarsari/qa-personal-library):** Database persistence, edge-case validation, and comment-thread API integration tests.
+* **[American-British Translator](https://github.com/amarsari/qa-american-british-english-translator):** Regex-driven linguistic token parsing and localized idiom verification.
+* **[Sudoku Solver](https://github.com/amarsari/qa-sudoku-solver):** Matrix coordinate solver with deep error handling for invalid strings and conflicting entries.
 
-### 👯‍♀️ I'm looking to collaborate on...
-As I'm actively developing my expertise in Javascript development and also in Quality Assurance, I'm particularly keen to collaborate on projects that offer opportunities to apply and expand my QA skills. I'm enthusiastic about contributing to initiatives focused on ensuring software quality and delivering excellent user experiences.
+---
 
-Specifically, I'm interested in collaborating on projects involving:
+## 💻 Platforms & SaaS Engineering
 
-* **Test Automation:** I'm eager to gain more hands-on experience with test automation frameworks (like Selenium, Cypress, or others) and contribute to automating test suites for web, mobile, or API testing. My foundational knowledge in JavaScript can be valuable in this area.
-* **Manual Testing Efforts:** I'm ready to contribute to manual testing activities, including functional testing, regression testing, exploratory testing, and usability testing. I can assist with test case design, execution, and clear bug reporting using tools like JIRA.
-* **Bug Identification and Reporting:** With a keen eye for detail and analytical skills honed through IT management and data analysis, I can contribute significantly to identifying, documenting, and tracking defects effectively using JIRA.
-* **Applying Agile Methodologies to QA:** I'm interested in projects that embrace Agile principles (Scrum, Kanban) and where I can contribute to integrating QA seamlessly into the development lifecycle.
-* **Performance Testing (Beginner Level):** While still developing in this area, I'm eager to learn and contribute to basic performance testing efforts, potentially using tools like JMeter, to ensure application responsiveness and stability.
-* **Open Source QA Projects:** I'm open to contributing to open-source projects focused on quality assurance tools, frameworks, or testing methodologies to learn from experienced professionals and contribute to the community.
-* **Proof of Concepts (PoCs) and Side Projects:** I'm happy to collaborate on smaller proof-of-concept projects or side initiatives where I can apply QA principles and contribute to the overall quality of the deliverable.
+### [TeacherTony Platform](https://teachertonytop.com) | Founder & Full-Stack Developer
+* Architected and deployed a production web application for online scheduling, student management, and digital interactive learning.
+* Implemented responsive JavaScript front-end components, user authentication, and data integrity safeguards.
+* Conducted continuous functional testing, cross-browser compatibility verification, and manual regression checks across releases.
 
-**My potential contributions include:**
+---
 
-* Developing and executing test cases based on requirements and specifications.
-* Identifying, documenting, and tracking bugs and issues in JIRA.
-* Contributing to the automation of test scripts (especially with JavaScript).
-* Participating in test planning and strategy discussions.
-* Providing feedback on usability and potential areas for improvement.
-* Applying my analytical skills to understand data related to testing outcomes.
-* Leveraging my strong communication skills (fluent in English and Portuguese) for effective collaboration.
+## 📜 Certifications & Education
 
-If you have a project that aligns with my interests and where I can contribute my growing QA skillset, please don't hesitate to reach out! I'm a quick learner, a collaborative team player, and dedicated to ensuring quality outcomes.
+* **Quality Assurance Automation Certification** – freeCodeCamp.org (2025)
+* **JavaScript Algorithms and Data Structures Certification** – freeCodeCamp.org (2025)
+* **ITIL Foundations** – IBM
+* **B.S. in Information Technology & Data Processing** – Fatec Americana "Ministro Ralph Biasi"
+* **TESOL Certification** – Arizona State University (ASU)
 
-## 📫 How to reach me...
+---
 
- - [LinkedIn](https://www.linkedin.com/in/antoniomarsari/)
- - [My CV in English in pdf](https://drive.google.com/file/d/1hw0MoIQqp0MnSBE646aEGKTKaHJKHduS/view?usp=drive_link)
+## 📬 Connect
 
-## 💼 My Proven Experience & Certifications
-- Javascript Algorithms and Data Structures Certification issued by freeCodeCamp.org
-- Quality Assurance Certification issued by freeCodeCamp.org
-- ITIL Foundations issued by IBM
-- TESOL Certificate issued by ASU
-
-### Automation Tests Projects using E2E Cypress
-
-- [SauceDemo E2E Test Suite (Cypress)](https://github.com/amarsari/saucedemo-cypress-e2e)
-  - Automated functional, security, and edge-case validation for the SauceDemo benchmark web app.
-  - Features resilient selector strategy via `data-test` attributes, `beforeEach` fixture setups, and deterministic assertions for authentication and form validation.
-- [Cypress Real World App Extensive Testing](https://github.com/amarsari/cypress-realworld-app)
-- [Testing Course App](https://github.com/amarsari/testing-course-app-using-cypress) — *Refer to folder `cypress/e2e` for available specs and tests.*
-- [Mastered Custom Commands with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
-- [Mastered Common Cypress Methods with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
-- [Mastered Debugging Failing Tests with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
-- [Mastered Data Iteration with lodash `_.each()` in Cypress](https://github.com/cypress-io/cypress-realworld-testing-blog)
-- [Mastered Network Intercept with Cypress Real World Testing Blog](https://github.com/cypress-io/cypress-realworld-testing-blog)
-  
-- ### Automation Tests Projects using mocha chai (300+ hours of work)!
-- [QA Metric Imperial Converter Unit and Functional Automation Tests](https://github.com/amarsari/qa-metric-imperial-converter/tree/main/tests)
-- [QA American British English Translator Unit and Functional Automation Tests](https://github.com/amarsari/qa-american-british-english-translator/tree/main/tests)]
-- [QA Issues Tracker Functional Automation Tests](https://github.com/amarsari/qa-issue-tracker/tree/main/tests)
-- [QA Personal Library Functional Automation Tests](https://github.com/amarsari/qa-personal-library/tree/main/tests)]
-- [QA Sudoku Solver Unit and Functional Automation Tests](https://github.com/amarsari/qa-sudoku-solver/tree/main/tests)
-
-## 📈 Best Practices
-- [Bug Reports Best Practices](https://docs.google.com/document/d/1R_R0JwzJw8Mobv3deoyMhFshepgNwgUO9y0ZKaoVvkI/edit?tab=t.0)
+* **LinkedIn:** [linkedin.com/in/antoniomarsari](https://www.linkedin.com/in/antoniomarsari/)
+* **Email:** [antonio.marsari@gmail.com](mailto:antonio.marsari@gmail.com)
