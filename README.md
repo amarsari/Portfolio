@@ -16,6 +16,11 @@ Full Stack JavaScript Developer with over 15 years of background in IT Service M
 - Analytical Skills: Data Analysis, Process Improvement 
 - Language Proficiency: English (Native/Fluent), Portuguese (Native/Fluent)
 
+### [SauceDemo E2E Test Automation Framework](https://github.com/amarsari/saucedemo-cypress-e2e)
+![Cypress E2E Tests](https://github.com/amarsari/saucedemo-cypress-e2e/actions/workflows/cypress.yml/badge.svg)
+
+* **Stack:** Cypress 14, JavaScript, GitHub Actions CI/CD, Page Object Model (POM).
+* **Highlights:** Decoupled architecture across 4 core user journeys, algorithmic DOM-based catalog sorting verification, automated headless execution on push/PR with artifact capture.
 
 ## Work, Work, Work
 ### 🧠 I'm currently learning...
