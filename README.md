@@ -30,6 +30,14 @@ An enterprise-grade test automation suite built with Cypress and JavaScript veri
 
 ---
 
+### [QA Engineering Code Challenges & Test Design](https://github.com/amarsari/qa-code-challenges)
+A curated collection of practical QA challenges demonstrating end-to-end quality engineering: from formal test analysis to automated test execution and defect reporting.
+* **Formal Test Design:** Application of Boundary Value Analysis (BVA), Equivalence Partitioning (EP), and Decision Tables to systematically model test scenarios and business rules.
+* **Automation Suites:** Implementation of automated end-to-end tests using Cypress and JavaScript, structured for clarity and maintainability.
+* **Community-Oriented Architecture:** Designed challenge-first with decoupled specifications and interactive solution guides, enabling peers to test their skills before reviewing solutions.
+
+---
+
 ### [freeCodeCamp QA Automation & Microservices Suite](https://github.com/amarsari)
 A collection of full-stack Node/Express microservices built with comprehensive automated unit and integration suites using **Mocha** and **Chai**:
 * **[Metric-Imperial Converter](https://github.com/amarsari/qa-metric-imperial-converter):** Unit conversion math validation and HTTP routing boundary assertions.
